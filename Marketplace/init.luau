@@ -9,6 +9,7 @@ local Marketplace = {}
 --[=[
 
 	Check if a player owns a gamepass
+	@public
 	@param UserId number
 	@param PassId number
 	@return boolean
