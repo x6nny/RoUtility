@@ -9,3 +9,7 @@ A simple MarketplaceService wrapper for simple functions.
 
 # 📦 Loader
 A module loader & initializer that handles all module loading and initialization for you.
+
+# ⚡ Signal
+A simple & lightweight signal module to replace BindableEvents.
+
