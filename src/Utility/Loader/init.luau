@@ -7,6 +7,7 @@ loader.__index = loader
 --[=[
 
 	Create a new loader class
+	@public
 	@param parent Instance
 
 ]=]
@@ -29,6 +30,7 @@ end
 --[=[
 
 	Call the Init function on all loaded modules if it exists
+	@public
 
 ]=]
 function loader:Init()
