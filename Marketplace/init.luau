@@ -22,6 +22,7 @@ end
 --[=[
 
 	Prompt a user to purchase a gamepass
+	@public
 	@param player Player
 	@param PassId number
 
@@ -34,6 +35,7 @@ end
 --[=[
 
 	Prompt a user to purchase a developer product
+	@public
 	@param player Player
 	@param ProductId number
 
@@ -45,6 +47,7 @@ end
 --[=[
 
 	Prompt a user to purchase Premium membership
+	@public
 	@param player Player
 
 ]=]
@@ -56,6 +59,7 @@ end
 --[=[
 
 	Prompt a user to complete a bulk purchase
+	@public
 	@param player Player
 	@param items table
 	@param options table
@@ -68,6 +72,7 @@ end
 --[=[
 
 	Prompt a user to purchase a subscription
+	@public
 	@param player Player
 	@param SubscriptionId string
 
@@ -79,6 +84,7 @@ end
 --[=[
 
 	Prompt a user to cancel a subscription
+	@public
 	@param player Player
 	@param SubscriptionId string
 
