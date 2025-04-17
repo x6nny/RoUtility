@@ -13,3 +13,5 @@ A module loader & initializer that handles all module loading and initialization
 # ⚡ Signal
 A simple & lightweight signal module to replace BindableEvents.
 
+# ⌛ Queue
+A simple queue module for tasks.
